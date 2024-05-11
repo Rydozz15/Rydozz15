@@ -18,7 +18,8 @@
   ![Node.js][node.js-url]
   ![Express.js][express.js-url]
   ![PostgreSQL][postgreSQL-url]
-- Miscellaneous 
+- Miscellaneous
+  ![TypeScript][typescript-url]
   ![Amazon AWS][aws-url]
   ![JWT][jwt-url]
   ![Jest][jest-url]
@@ -38,4 +39,5 @@
 [jest-url]: https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white
 [postman-url]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white
 [jwt-url]: https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white
+[typescript-url]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 
