@@ -4,9 +4,9 @@
 **Rydozz15/Rydozz15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 focused in Web Development.
-- 💼 Open to work.
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Computer Engineering 𝚊𝚝 𝚄𝚗𝚒𝚟𝚎𝚛𝚜dad Mayor. Graduated from Psychology at Pontif. Universidad Católica de Chile.
+- 🖥 Software developer focused in Web Development. Now learning about CyberSec.
+- 💼 Open to work. Contact me here 
+- 🎓 Studying Computer Engineering at Universidad MAyor. Graduated from Psychology at Pontif. Universidad Católica de Chile.
 
 ## Stack
 - Front-End
@@ -22,7 +22,7 @@
 [![aws-url]]
 [![jwt-url]]
 [![jest-url]]
-[![postman-url]]
+[postman-url]
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
