@@ -22,7 +22,7 @@
 [![aws-url]]
 [![jwt-url]]
 [![jest-url]]
-[!postman-url]
+<img src="[postman-url]"/>
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
