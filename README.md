@@ -5,7 +5,7 @@
 -->
 ## About Me
 - 🖥 Software developer focused on Web Development. Currently learning about CyberSec.
-- 💼 Open to work. Contact me [here](https://www.linkedin.com/in/jotapefuentes/)
+- 💼 Open to work. Contact me via [LinkedIn](https://www.linkedin.com/in/jotapefuentes/) or [e-mail](mailto:juan.fuentes@uc.cl)
 - 🎓 Studying Computer Engineering at Universidad Mayor. Graduated from Psychology at Pontif. Universidad Católica de Chile.
 
 ## Stack
