@@ -3,29 +3,29 @@
 <!--
 **Rydozz15/Rydozz15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Software developer focused in Web Development. Now learning about CyberSec.
-- 💼 Open to work. Contact me here 
-- 🎓 Studying Computer Engineering at Universidad MAyor. Graduated from Psychology at Pontif. Universidad Católica de Chile.
+## About Me
+- 🖥 Software developer focused on Web Development. Currently learning about CyberSec.
+- 💼 Open to work. Contact me [here](https://www.linkedin.com/in/jotapefuentes/)
+- 🎓 Studying Computer Engineering at Universidad Mayor. Graduated from Psychology at Pontif. Universidad Católica de Chile.
 
 ## Stack
 - Front-End
-[![React.js][react.js-url]]
-[![Next.js][next.js-url]]
-[![TailwindCSS][tailwind-url]]
-[![DaisyUI][daisyUI-url]]
+  ![React.js][react.js-url]
+  ![Next.js][next.js-url]
+  ![TailwindCSS][tailwind-url]
+  ![DaisyUI][daisyUI-url]
 - Back-End
-[![Node.js][node.js-url]]
-[![Express.js][express.js-url]]
-[![PostgreSQL][postgreSQL-url]]
+  ![Node.js][node.js-url]
+  ![Express.js][express.js-url]
+  ![PostgreSQL][postgreSQL-url]
 - Miscellaneous 
-[![aws-url]]
-[![jwt-url]]
-[![jest-url]]
-[![postman-url]
+  ![Amazon AWS][aws-url]
+  ![JWT][jwt-url]
+  ![Jest][jest-url]
+  ![Postman][postman-url]
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jotapefuentes/
 [next.js-url]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [react.js-url]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
@@ -38,3 +38,4 @@
 [jest-url]: https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white
 [postman-url]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white
 [jwt-url]: https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white
+
