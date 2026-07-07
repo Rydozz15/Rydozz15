@@ -1,12 +1,9 @@
 # Hi there 👋 I'm Juan Pablo Fuentes
 ### But just call me ✨ **Jotapé** ✨
 
-## 🧠 Bridging Human Cognition & Artificial Intelligence
-
 I'm an **AI Engineer** with a unique background combining **Psychology** and a **Master's in Computer Science (PUC)**. My focus is on creating technology that understands human behavior, specializing in generative AI architectures and user-centered systems.
 
 - 🚀 **AI Developer & Research Assistant** at PUC, working on RAG systems for FONDECYT projects
-- 🛡️ **Co-Founder & Strategic Lead** at **[SecureJump](https://securejump.cl)**, integrating cybersecurity with a human-centered approach
 - 🎓 **M.Sc. in Computer Science** (PUC) | **Psychologist** (PUC)
 
 ---
@@ -41,33 +38,15 @@ I'm an **AI Engineer** with a unique background combining **Psychology** and a *
 
 ## 🚀 Featured Projects
 
-### 🤝 [Panel de Expertos - Multi-Agent System](https://github.com/Rydozz15/consejo-expertos)
-> 🎯 Sistema multi-agente que simula un panel de expertos especializados
+### 🎓 [ISSDE Workshop Chatbot Platform](https://github.com/Rydozz15/workshop-platform)
+> 🧪 Full-stack platform for running interactive, AI-driven case-based workshops and testing system prompts at scale
+- **Admin Dashboard:** Create custom scenarios (Markdown), organize them into chained Campaigns, generate shareable QR codes/links
+- **Custom AI Personas:** Configurable system prompt per campaign step (naive mode, strict tutor, casual peer, etc.)
+- **Analytics Engine:** Real-time session tracking, Likert/survey distributions, AI-generated summaries of open-text responses, longitudinal analysis across chained steps
+- **Data Export:** Full chat transcripts and session data exportable to CSV/JSON for research analysis
+- **Dual-mode DB:** In-memory JSON for dev, Supabase (PostgreSQL) for production
 
-- **Agentes:** Técnico, Negocio, UX, Legal (usando Gemini API)
-- **Backend:** FastAPI + Pydantic para validación estricta
-- **Frontend:** Astro + Tailwind CSS optimizado para performance
-- **Feature:** Sistema conversacional con preguntas de seguimiento
-
-**Tech Stack:** `FastAPI` `Pydantic` `Gemini API` `PostgreSQL` `Astro` `Docker`
-
----
-
-### 🛡️ [SecureJump - Corporate Website](https://securejump.cl)
-> 🔐 Sitio corporativo para startup B2B de ciberseguridad
-
-- Liderazgo en arquitectura y stack tecnológico
-- Mentoría técnica en React/Next.js ecosystem
-- Implementación de best practices (SOLID, Clean Code)
-
-**Tech Stack:** `Next.js` `React` `TypeScript` `Strapi CMS`
-
----
-
-## 📊 GitHub Stats
-
-![Jotapé's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rydozz15&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rydozz15&layout=compact&theme=radical)
+**Tech Stack:** `Next.js` `TypeScript` `OpenRouter` `Groq API` `Supabase` `PostgreSQL`
 
 ---
 
@@ -75,7 +54,6 @@ I'm an **AI Engineer** with a unique background combining **Psychology** and a *
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jotapefuentes/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan.fuentes@uc.cl)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rydozz15)
 
 📍 Based in Santiago, Chile 🇨🇱
 
@@ -83,19 +61,7 @@ I'm an **AI Engineer** with a unique background combining **Psychology** and a *
 
 ## 🎯 Current Focus
 
-- 🔬 Developing RAG systems for educational mentoring (FONDECYT 124157)
-- 🤖 Exploring multi-agent architectures and LLM orchestration
-- 📚 Researching Human-Computer Interaction (HCI) in AI systems
-- 💡 Building AI-powered applications that prioritize user experience
-
----
-
-### 💬 Fun Facts
-- 🧠 Psychologist turned AI Engineer
-- 🎓 Master's thesis on RAG for qualitative data analysis
-- 🚀 Passionate about EdTech and HealthTech applications
-- 🌱 Always learning: currently diving deep into DSA and system design
-
+- 📚 Finishing my thesis (RAG for Academic Mentoring).
 ---
 
 <p align="center">
