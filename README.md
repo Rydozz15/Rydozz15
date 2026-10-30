@@ -23,7 +23,7 @@ I came to this from a practical problem (scaling academic mentoring with AI) and
 Accepted for presentation at Conversations 2026. [Code and materials](https://github.com/Rydozz15/conversations2026)
 
 **From Broken Instrument to Redesigned Protocol: Auditing and Sociotechnical Redesign of an LLM-as-a-Judge Pipeline**
-Poster, RISE AI Latin America Summit 2026 (Education Track). Started as a failed attempt to replace an expert panel with LLM judges, and became a study of why that failed.
+Poster, RISE AI Latin America Summit 2026 (Education Track). Started as a failed attempt to replace an expert panel with LLM judges, and became a study of why that failed. [Poster](https://github.com/Rydozz15/rise-ai-2026-llm-judge-audit)
 
 **MSc thesis: RAG-based academic mentoring**
 Evaluation of mentoring responses from a disciplinary expert vs. a generic LLM vs. a RAG system, part of FONDECYT Project 1241537. Supervisors: Isabel Hilliger and Jorge Baier.
